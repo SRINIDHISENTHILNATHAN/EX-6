@@ -69,7 +69,6 @@ while True:
 
 ![image](https://github.com/SRINIDHISENTHILNATHAN/EX-6/assets/121373170/83870116-dbc7-4acf-bb17-503dd4cfed6f)
 
-
 **SERVER :**
 
 ![image](https://github.com/SRINIDHISENTHILNATHAN/EX-6/assets/121373170/49e9156e-23b5-418c-8fc7-ea5ee948ee37)
